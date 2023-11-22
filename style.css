@@ -1,0 +1,13 @@
+  body {
+      margin: 0px;
+      overflow-x: hidden;
+  }
+
+  header {
+
+      background-color: black;
+      text-align: center;
+      padding: 30px;
+      color: white;
+      width: 100%;
+  }
